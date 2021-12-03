@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#chronus:load/dependencies",
+    "#chronus:load/enumerate",
+    "#chronus:load/resolve"
+  ]
+}

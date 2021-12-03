@@ -1,0 +1,10 @@
+{
+  "values": [
+    {
+      "id": "#hera:load/dependencies",
+      "required": false
+    },
+    "#hera:load/enumerate",
+    "#hera:load/resolve"
+  ]
+}

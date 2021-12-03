@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 8,
+    "description": "A simple datapack that depends on another datapack"
+  }
+}

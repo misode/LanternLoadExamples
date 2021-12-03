@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "step_on_path": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "stepping_on": {
+            "block": {
+              "blocks": [
+                "minecraft:dirt_path"
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "zeus:v1.3/step_on_path"
+  }
+}

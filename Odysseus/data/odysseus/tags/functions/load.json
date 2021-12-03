@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "#athena:load", "required": false },
+    "odysseus:load"
+  ]
+}

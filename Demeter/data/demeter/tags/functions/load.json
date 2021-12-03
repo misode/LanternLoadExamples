@@ -1,0 +1,7 @@
+{
+  "values": [
+    "#demeter:load/dependencies",
+    "#demeter:load/enumerate",
+    "#demeter:load/resolve"
+  ]
+}
